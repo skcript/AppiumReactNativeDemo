@@ -1,7 +1,4 @@
 {
-  "test-android.py::ExampleTests::test_loginEmptyEmail": true, 
-  "test-android.py::ExampleTests::test_loginEmptyPassword": true, 
-  "test-android.py::ExampleTests::test_loginError": true, 
   "test-android.py::ExampleTests::test_loginSuccess": true, 
   "test.py::ExampleTests::test_loginSuccess": true, 
   "test.py::ExampleTests::test_login_empty_email": true, 
